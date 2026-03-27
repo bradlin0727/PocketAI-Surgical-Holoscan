@@ -1,5 +1,7 @@
 ﻿# PocketAI-Surgical-Holoscan
 
+Checked by Brad Lin
+
 ## 🚀 Project Overview
 Leveraging the ADLINK Pocket AI (RTX A500) enables real-time AI applications in medical imaging and surgical robotics. This portable solution provides the high-performance GPU acceleration needed for low-latency diagnostic processing and precise robotic control at the point of care.
 
